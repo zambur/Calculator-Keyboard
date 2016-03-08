@@ -1,3 +1,3 @@
 # Calculator-Keyboard
 
-![](https://github.com/zambur/Calculator-Keyboard/blob/master/keyboard-Demo.gif)
+![alternate text](http://imgur.com/icyWjaC)
