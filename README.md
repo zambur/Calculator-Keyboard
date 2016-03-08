@@ -1,3 +1,3 @@
 # Calculator-Keyboard
 
-![alternate text](http://imgur.com/icyWjaC)
+[Demo](http://i.imgur.com/icyWjaC.gif?1)
